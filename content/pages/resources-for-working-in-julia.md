@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Resources for Working in Julia
 uid: 6a7273a6-6001-837d-cd7d-5b893d7ae8fd
 ---

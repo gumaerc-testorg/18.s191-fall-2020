@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Course Materials
 uid: d63150b9-6943-2991-2ba4-9782105581f5
 ---
