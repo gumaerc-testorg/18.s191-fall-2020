@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains links to the various files used in 11.S191 Introduction
+  to Computational Thinking.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Course Materials
