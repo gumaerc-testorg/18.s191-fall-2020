@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains list of external links to helpful "cheatsheets"
+  for working in Julia.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Resources for Working in Julia
 uid: 6a7273a6-6001-837d-cd7d-5b893d7ae8fd
 ---

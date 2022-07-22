@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains the homework assignments for 11.S191 Introduction
+  to Computational Thinking.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 18fe33da-e302-e1a7-fd17-db2f79bc5561
 ---
