@@ -10,15 +10,15 @@ uid: d63150b9-6943-2991-2ba4-9782105581f5
 
 To complete the course, you will first need to install Julia and Pluto on your computer.
 
-[First-Time Setup: Install Julia & Pluto (HTML)](https://github.com/mitmath/18S191/blob/Fall20/homework/homework0/Installing%20Julia%20+%20Pluto.md)
+{{% resource_link "cf9b4958-d07d-4921-b630-ec9d5f31786d" "First-Time Setup: Install Julia & Pluto (HTML)" %}}
 
-[How to Install Julia & Pluto (YouTube)](https://www.youtube.com/watch?v=OOjKEgbt8AI)
+{{% resource_link "77494d04-990a-4725-be2e-41fb1a4445b4" "How to Install Julia & Pluto (YouTube)" %}}
 
-[Homework 0: Getting Up & Running](https://htmlpreview.github.io/?https://github.com/mitmath/18S191/blob/Fall20/homework/homework0/hw0.html)
+{{% resource_link "cc118c2a-4655-47c4-9ac4-a245b39fea6c" "Homework 0: Getting Up & Running" %}}
 
-The videos linked below are also available in the form of a [YouTube playlist](https://www.youtube.com/playlist?list=PLP8iPy9hna6Q2Kr16aWPOKE0dz9OnsnIJ).
+The videos linked below are also available in the form of a {{% resource_link "af00e11a-a77d-438b-9aed-c009e84af902" "YouTube playlist" %}}.
 
-All of the Pluto notebook files for lecture sessions and homework are also available on the [original GitHub site developed for the course](https://github.com/mitmath/18S191/find/Fall20).
+All of the Pluto notebook files for lecture sessions and homework are also available on the {{% resource_link "6d5d69b2-40bd-497b-b8b9-e774bda1f0c1" "original GitHub site developed for the course" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -47,20 +47,20 @@ notebooks
 {{< tdopen >}}
 
 
-[Working with images in Julia](https://www.youtube.com/watch?v=DGojI9xcCfg)
+{{% resource_link "e5ace7b4-1b7f-4b84-9dac-c150a1b6afd8" "Working with images in Julia" %}}
 
-[First taste of abstraction with arrays](https://www.youtube.com/watch?v=foN1_hAGfNg&t=1s)
+{{% resource_link "7037338a-ed3c-4dbd-9743-21813f168bd4" "First taste of abstraction with arrays" %}}
 
-[Basics of arrays in Julia](https://www.youtube.com/watch?v=CwDI-YOjWhc)
+{{% resource_link "a4b021be-966f-43ee-b007-f391521fed56" "Basics of arrays in Julia" %}}
 
-[TEDx talk: A programming language to heal the planet together](https://www.youtube.com/watch?v=qGW0GT1rCvs)
+{{% resource_link "419f9e48-0cc5-4569-9bf5-d89332438452" "TEDx talk: A programming language to heal the planet together" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Images - intro (.jl)](https://github.com/mitmath/18S191/blob/Fall20/lecture_notebooks/week1/01-images-intro.jl)
+{{% resource_link "c91468fd-b05c-4d06-91bc-7bfc3168ef2a" "Images - intro (.jl)" %}}
 
 
 {{< tdclose >}}
@@ -77,14 +77,14 @@ notebooks
 {{< tdopen >}}
 
 
-[Convolutions in image processing](https://www.youtube.com/watch?v=8rrHTtUzyZA)
+{{% resource_link "5413c70b-d442-45f8-814b-48859624aa91" "Convolutions in image processing" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Convolutions (.jl)](https://github.com/mitmath/18S191/commit/c5299fbe8618720c8624a6c378c0305e2dd95bc2#diff-e90fd5d5c768312d7b081951a18fa4427e4ed5eeca02fbc12c7dafdd5cba3f56)
+{{% resource_link "6a7ee7ba-1c1d-4bd4-a9ae-0838c42214f1" "Convolutions (.jl)" %}}
 
 
 {{< tdclose >}}
@@ -101,26 +101,26 @@ notebooks
 {{< tdopen >}}
 
 
-[Seam carving](https://www.youtube.com/watch?v=rpB6zQNsbQU)
+{{% resource_link "c1905985-4302-4bc3-b12b-f5846cc4d9ca" "Seam carving" %}}
 
-[Arrays: Slices and views](https://www.youtube.com/watch?v=gTGJ80HayK0)
+{{% resource_link "6f81ab39-18dc-4141-919a-c5b542d7b75e" "Arrays: Slices and views" %}}
 
-[Convolutions on GPUs](https://www.youtube.com/watch?v=aa3JkX_cj_I)
+{{% resource_link "72717c32-0c6a-47be-ac79-31cdf85f8794" "Convolutions on GPUs" %}}
 
-[Image seam reminiscing](https://www.youtube.com/watch?v=IQxN1Q8W6bI)
+{{% resource_link "943a3259-79fa-40aa-8601-2642d1a8668f" "Image seam reminiscing" %}}
 
-[Convolutions in the real world](https://www.youtube.com/watch?v=e6WnzfvnFlY)
+{{% resource_link "e2299198-9ab3-4c30-a272-75a3fe0f9d6e" "Convolutions in the real world" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-﻿[Seam carving (.jl)](https://github.com/mitmath/18S191/blob/Fall20/lecture_notebooks/week2/01-seam_carving.jl)
+﻿{{% resource_link "3b5a8a32-6d5e-4706-a026-e35ec0da7103" "Seam carving (.jl)" %}}
 
-[Arrays: Slices and views (.jl)](https://github.com/mitmath/18S191/blob/Fall20/lecture_notebooks/week2/03-array_slices_and_views.jl)
+{{% resource_link "ab913b57-24fb-4fa0-86a1-6b476c0adf50" "Arrays: Slices and views (.jl)" %}}
 
-[Sobel gradient (.jl)](https://github.com/mitmath/18S191/blob/Fall20/lecture_notebooks/week2/02-sobel_gradient.jl)
+{{% resource_link "f6bd1a10-c2da-4be4-af07-30fe3a021b99" "Sobel gradient (.jl)" %}}
 
 
 {{< tdclose >}}
@@ -137,7 +137,7 @@ notebooks
 {{< tdopen >}}
 
 
-[Seam carving live coding session](https://www.youtube.com/watch?v=ALcohd1q3dk)
+{{% resource_link "b6014dc5-5a09-4507-85d4-4756ec4a2186" "Seam carving live coding session" %}}
 
 
 {{< tdclose >}}
@@ -159,26 +159,26 @@ notebooks
 {{< tdopen >}}
 
 
-[Structure](https://www.youtube.com/watch?v=ConoBmjlivs)
+{{% resource_link "1ca5faae-cca2-42a2-b769-c33e0f77f34f" "Structure" %}}
 
-[Defining new types](https://www.youtube.com/watch?v=yU8P_cHPn8Q)
+{{% resource_link "707031ca-744e-4b49-9330-8606273f1c57" "Defining new types" %}}
 
-[Functions and types: Multiple dispatch](https://www.youtube.com/watch?v=DXtbaSP_LFI)
+{{% resource_link "0473cb1e-de1f-4717-af2a-fb6dcd6d900f" "Functions and types: Multiple dispatch" %}}
 
-[Introduction to macros](https://www.youtube.com/watch?v=e6LGMeoQhfs)
+{{% resource_link "f2b953d9-ad9d-448d-a81b-59711adf1309" "Introduction to macros" %}}
 
-[Environments for programming with Julia](https://www.youtube.com/watch?v=PgeLMzw_-Ww)
+{{% resource_link "346006f8-9e71-4f2f-9888-7b1657915b4e" "Environments for programming with Julia" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-﻿[Structure (.jl)](https://github.com/mitmath/18S191/blob/Fall20/lecture_notebooks/week3/01-structure.jl)
+﻿{{% resource_link "82ec18b0-0113-4b3e-8081-5213f128dc7e" "Structure (.jl)" %}}
 
-[Defining types (.jl)](https://github.com/mitmath/18S191/blob/Fall20/lecture_notebooks/week3/03-defining-types.jl)
+{{% resource_link "ed9bbaab-91b8-476b-90cb-29b08f622af1" "Defining types (.jl)" %}}
 
-[Intro to macros (.jl)](https://github.com/mitmath/18S191/blob/Fall20/lecture_notebooks/week3/04-intro-to-macros.jl)
+{{% resource_link "21714ad2-56d3-4b3a-957a-511475f47629" "Intro to macros (.jl)" %}}
 
 
 {{< tdclose >}}
@@ -195,14 +195,14 @@ notebooks
 {{< tdopen >}}
 
 
-[Understanding structure in data](https://www.youtube.com/watch?v=KrQV6mZ8hvI)
+{{% resource_link "3a6e6a8e-e67e-4d7c-8a72-d4980ff49540" "Understanding structure in data" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Structure in data (.jl)](https://github.com/mitmath/18S191/blob/Fall20/lecture_notebooks/week3/02-structure-in-data-PCA.jl)
+{{% resource_link "a26e1d3d-6783-4bdc-a397-35ae18f9410a" "Structure in data (.jl)" %}}
 
 
 {{< tdclose >}}
@@ -219,24 +219,24 @@ notebooks
 {{< tdopen >}}
 
 
-[Introspection](https://www.youtube.com/watch?v=IuOXXQR7dAo)
+{{% resource_link "b0e53eb7-219d-4d7c-af0e-8a70eb5aed58" "Introspection" %}}
 
-[Analysing Covid-19 data](https://www.youtube.com/watch?v=m1dmT-31Qwc)
+{{% resource_link "7934c660-090f-4f10-be57-ebe652fc908c" "Analysing Covid-19 data" %}}
 
-[Introduction to DataFrames](https://www.youtube.com/watch?v=Pt8Iz4Udg2E)
+{{% resource_link "f21cb348-0f7f-4ccb-9cb0-83e7d52a11f2" "Introduction to DataFrames" %}}
 
-[Functions are objects](https://www.youtube.com/watch?v=_O-HBDZMLrM)
+{{% resource_link "b226eb3f-a7a6-439b-a28c-43fda20a2d30" "Functions are objects" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
- [Introspection (.jl)](https://github.com/mitmath/18S191/blob/Fall20/lecture_notebooks/week4/01-introspection.jl)
+ {{% resource_link "4b41bc66-4a58-49ca-b164-547268eea818" "Introspection (.jl)" %}}
 
-[Covid data (.jl)](https://github.com/mitmath/18S191/blob/Fall20/lecture_notebooks/week4/02-covid_data.jl)
+{{% resource_link "aedc13a3-dff4-4b6b-947e-836b73e2e5f3" "Covid data (.jl)" %}}
 
-[Functions are objects (.jl)](https://github.com/mitmath/18S191/blob/Fall20/lecture_notebooks/week4/03-functions-are-objects.jl)
+{{% resource_link "3d5b2a00-962f-4aeb-a850-64490990fdb5" "Functions are objects (.jl)" %}}
 
 
 {{< tdclose >}}
@@ -253,14 +253,14 @@ notebooks
 {{< tdopen >}}
 
 
-[Probability via computation](https://www.youtube.com/watch?v=Yx055xdSkx0)
+{{% resource_link "97eba29d-c1ba-4937-9f3b-447396c9fa38" "Probability via computation" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
- [Probability (.jl)](https://github.com/mitmath/18S191/blob/Fall20/lecture_notebooks/week4/04-probability.jl)
+ {{% resource_link "4eb0e4e7-0760-4943-b8eb-0bf3b65f0868" "Probability (.jl)" %}}
 
 
 {{< tdclose >}}
@@ -277,22 +277,22 @@ notebooks
 {{< tdopen >}}
 
 
-[Computational thinking illustrated](https://www.youtube.com/watch?v=6bBFkBCzwh4)
+{{% resource_link "9d49e98c-653a-4462-b3d0-9d0591ae2601" "Computational thinking illustrated" %}}
 
-[Graphs are matrices](https://www.youtube.com/watch?v=zxHVpNnFt1U)
+{{% resource_link "e23eb483-93ac-4d87-835f-25b79fdb779f" "Graphs are matrices" %}}
 
-[Verbs and nouns in Julia](https://www.youtube.com/watch?v=LvoLXE0U5og)
+{{% resource_link "76668dcc-11fd-4ad8-85fd-6b49b772a161" "Verbs and nouns in Julia" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Birthday problem (.jl)](https://github.com/mitmath/18S191/blob/Fall20/lecture_notebooks/week5/birthday-problem.jl)
+{{% resource_link "b7d25551-85ee-43d4-a628-d8ad607fd97d" "Birthday problem (.jl)" %}}
 
-[Graphs and matrices (.jl)](https://github.com/mitmath/18S191/blob/Fall20/lecture_notebooks/week5/graphs_and_matrices.jl)
+{{% resource_link "c24a3d09-6dae-448a-bf70-ec77a5477913" "Graphs and matrices (.jl)" %}}
 
-[Verbs and nouns (.jl)](https://github.com/mitmath/18S191/blob/Fall20/lecture_notebooks/week5/verbs-and-nouns.jl)
+{{% resource_link "1dfc8d36-1adb-4b0a-b91f-917c21ff1c03" "Verbs and nouns (.jl)" %}}
 
 
 {{< tdclose >}}
@@ -309,7 +309,7 @@ notebooks
 {{< tdopen >}}
 
 
-[Graphs, trees, and spreading disease](https://www.youtube.com/watch?v=emb7nhWWuWU)
+{{% resource_link "aef7c85a-7a75-4bf9-a3e3-72077a2e11e7" "Graphs, trees, and spreading disease" %}}
 
 
 {{< tdclose >}}
@@ -331,13 +331,13 @@ notebooks
 {{< tdopen >}}
 
 
- [Reflections on an epidemic video](https://www.youtube.com/watch?v=ErO_Hy01X98)
+ {{% resource_link "99e15d9c-9e3a-4485-98da-cf61253d4b14" "Reflections on an epidemic video" %}}
 
-[Everybody talks about R0](https://www.youtube.com/watch?v=VNo5WrKZ8Yc)
+{{% resource_link "74e45d2f-8278-4620-81aa-3c77b1e78dc5" "Everybody talks about R0" %}}
 
-[Writing self-documenting code](https://www.youtube.com/watch?v=MQoE69CbfHo)
+{{% resource_link "e8ed9f8e-7f47-4171-a6c0-615f2ec7d021" "Writing self-documenting code" %}}
 
-[Verbs and nouns II: Parametric types and abstract types](https://www.youtube.com/watch?v=2WVFvRfocjI)
+{{% resource_link "c39221ee-61ec-4e45-a7bb-846c2bde415e" "Verbs and nouns II: Parametric types and abstract types" %}}
 
 
 {{< tdclose >}}
@@ -359,14 +359,14 @@ notebooks
 {{< tdopen >}}
 
 
- [Macroscopic models of epidemic dynamics](https://www.youtube.com/watch?v=27OXvw3nkh4)
+ {{% resource_link "450e5c95-8a8c-47be-b8f5-e214a7fa505e" "Macroscopic models of epidemic dynamics" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
- [Macroscopic SIR (.jl)](https://github.com/mitmath/18S191/blob/Fall20/lecture_notebooks/week6/macroscopic_SIR.jl)
+ {{% resource_link "f2004ed1-2e24-4fe7-86cc-6852176f0baf" "Macroscopic SIR (.jl)" %}}
 
 
 {{< tdclose >}}
@@ -383,7 +383,7 @@ notebooks
 {{< tdopen >}}
 
 
-[Graphs and network dynamics](https://www.youtube.com/watch?v=TLlPH8XzsFM)
+{{% resource_link "b8e00270-2d40-41bd-b5dc-001cfd2f4417" "Graphs and network dynamics" %}}
 
 
 {{< tdclose >}}
@@ -405,20 +405,20 @@ notebooks
 {{< tdopen >}}
 
 
-[Raytracing in 2D](https://www.youtube.com/watch?v=MkkZb5V6HqM)
+{{% resource_link "6396e587-f74c-450e-8b3a-7ca6e85e1d6c" "Raytracing in 2D" %}}
 
-[Parallel computing on your own machine](https://www.youtube.com/watch?v=dczkYlOM2sg)
+{{% resource_link "399f9303-6a10-4c8e-8756-3e7d6ff268ee" "Parallel computing on your own machine" %}}
 
-[What is an array, really? Abstract arrays](https://www.youtube.com/watch?v=gUZVpMUY4qY)
+{{% resource_link "7e019657-1760-456e-9234-65d56a6ae1d4" "What is an array, really? Abstract arrays" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-﻿[Birthday (.jl)](https://github.com/mitmath/18S191/blob/Fall20/lecture_notebooks/week8/birthday.jl)
+﻿{{% resource_link "d1fe0fab-0859-412e-891b-b25bd80bbaf9" "Birthday (.jl)" %}}
 
-[What is an array? (.jl)](https://github.com/mitmath/18S191/blob/Fall20/lecture_notebooks/week8/what_is_an_array.jl)
+{{% resource_link "6e1f69cf-2324-4f40-a773-d90c88f3c0e9" "What is an array? (.jl)" %}}
 
 
 {{< tdclose >}}
@@ -435,7 +435,7 @@ notebooks
 {{< tdopen >}}
 
 
-[Billiard models and event-driven simulations](https://www.youtube.com/watch?v=FLDheVUjns0)
+{{% resource_link "3a3b3df7-8249-42e7-9c89-ddf932614738" "Billiard models and event-driven simulations" %}}
 
 
 {{< tdclose >}}
@@ -457,9 +457,9 @@ notebooks
 {{< tdopen >}}
 
 
-[Raytracing in 3D](https://www.youtube.com/watch?v=JwyQezsQkkw)
+{{% resource_link "6a5029ad-2361-4603-ae6c-1715efb5f87b" "Raytracing in 3D" %}}
 
-[Resistors, equilibrium, and Poisson's equation](https://www.youtube.com/watch?v=UKG-xk2F3Ak)
+{{% resource_link "89f87a33-b073-4df3-a0b2-26e712bd0cb2" "Resistors, equilibrium, and Poisson's equation" %}}
 
 
 {{< tdclose >}}
@@ -503,18 +503,18 @@ notebooks
 {{< tdopen >}}
 
 
-[Hierarchical thinking](https://www.youtube.com/watch?v=rJyJZ_fMy9Q)
+{{% resource_link "826d22ca-5e36-43da-97fe-6c6bf81de88b" "Hierarchical thinking" %}}
 
-[Iterative numerical schemes for Poisson and Laplace](https://www.youtube.com/watch?v=f7g1LTfNmnA)
+{{% resource_link "cd78e175-d8ee-442b-9633-3c45622a6d1c" "Iterative numerical schemes for Poisson and Laplace" %}}
 
-[Multigrid](https://www.youtube.com/watch?v=rRCGNvMdLEY)
+{{% resource_link "3066a726-c60b-45bd-a795-079bb49ad7f0" "Multigrid" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Iterative Laplace solver (.jl)](https://github.com/mitmath/18S191/blob/Fall20/lecture_notebooks/week10/03-iterative_laplace_solver.jl)
+{{% resource_link "dc580507-72e1-43c8-a6f0-f4147c9daf82" "Iterative Laplace solver (.jl)" %}}
 
 
 {{< tdclose >}}
@@ -531,14 +531,14 @@ notebooks
 {{< tdopen >}}
 
 
-[Floating-point arithmetic](https://www.youtube.com/watch?v=fL8vYG69EhE)
+{{% resource_link "356a2257-14b3-473d-841c-7560bd61f7d8" "Floating-point arithmetic" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Floating-point arithmetic (.jl)](https://github.com/mitmath/18S191/blob/Fall20/lecture_notebooks/week10/FloatingPoint.jl)
+{{% resource_link "c38fdca9-1c00-4442-ae4a-cc858cf3f3d3" "Floating-point arithmetic (.jl)" %}}
 
 
 {{< tdclose >}}
@@ -555,20 +555,20 @@ notebooks
 {{< tdopen >}}
 
 
-[Introduction to climate modeling](https://www.youtube.com/watch?v=Gi4ZZVS2GLA)
+{{% resource_link "e5c5c6c0-b0d3-4c0c-99da-6aa1ee96ac5b" "Introduction to climate modeling" %}}
 
-[Nonlinear dynamics: Stability and bifurcations](https://www.youtube.com/watch?v=D3jpfeQCISU)
+{{% resource_link "1a899baf-448b-4a6e-a048-a64ff7567876" "Nonlinear dynamics: Stability and bifurcations" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
- [Energy balance model (.jl)](https://github.com/mitmath/18S191/blob/Fall20/lecture_notebooks/week11/01_energy_balance_model.jl)
+ {{% resource_link "d4d92724-8108-4d5d-ae7c-e85d9876eb94" "Energy balance model (.jl)" %}}
 
-[Multiple equilibria (.jl)](https://github.com/mitmath/18S191/blob/Fall20/lecture_notebooks/week11/02_ebm_multiple_equilibria.jl)
+{{% resource_link "985dad22-dcc6-4a26-9b0d-c8690050d9bd" "Multiple equilibria (.jl)" %}}
 
-[Nonlinear dynamics - bifurcations (.jl)](https://github.com/mitmath/18S191/blob/Fall20/lecture_notebooks/week11/nonlinear_dynamics_bifurcations.jl)
+{{% resource_link "ded0a7cc-2d26-4aa2-9eaf-a2b878be1a5c" "Nonlinear dynamics - bifurcations (.jl)" %}}
 
 
 {{< tdclose >}}
@@ -585,7 +585,7 @@ notebooks
 {{< tdopen >}}
 
 
-[Nonlinear climate dynamics and Snowball Earth](https://www.youtube.com/watch?v=Y68tnH0FIzc)
+{{% resource_link "b0276435-05ca-4758-a8cc-01e775f5c901" "Nonlinear climate dynamics and Snowball Earth" %}}
 
 
 {{< tdclose >}}
@@ -607,24 +607,24 @@ notebooks
 {{< tdopen >}}
 
 
-[The diffusion equation](https://www.youtube.com/watch?v=a3V0BJLIo_c)
+{{% resource_link "7e9fa148-a0cf-4c56-923e-4e243e427f24" "The diffusion equation" %}}
 
-[Evolution in time and space: Advection and diffusion in 1D](https://www.youtube.com/watch?v=uf4g_U8Ok3c)
+{{% resource_link "2ea39644-2671-40be-bfd4-16586cf4440b" "Evolution in time and space: Advection and diffusion in 1D" %}}
 
-[Stencils and boundary conditions](https://www.youtube.com/watch?v=sbqPVPLHl5Q)
+{{% resource_link "4638ac68-688d-45ed-8c81-23b3e6f1d0a1" "Stencils and boundary conditions" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Advection-diffusion (.jl)](https://github.com/mitmath/18S191/blob/Fall20/lecture_notebooks/week12/advection_and_diffusion.jl)
+{{% resource_link "03b22b18-8f63-4e78-a39a-066830d16181" "Advection-diffusion (.jl)" %}}
 
-[Advection-diffusion 1D (.jl)](https://github.com/mitmath/18S191/blob/Fall20/lecture_notebooks/week12/advection_diffusion_1d.jl)
+{{% resource_link "a69ea822-824a-4a04-933c-830763f9bb51" "Advection-diffusion 1D (.jl)" %}}
 
-[Advection-diffusion 3 (.jl)](https://github.com/mitmath/18S191/blob/Fall20/lecture_notebooks/week12/3_advection_diffusion.jl)
+{{% resource_link "080885ad-e03d-41a2-8ada-ab0cae838a53" "Advection-diffusion 3 (.jl)" %}}
 
-[Stencils and boundary conditions (.jl)](https://github.com/mitmath/18S191/blob/Fall20/lecture_notebooks/week12/stencils_and_BC.jl)
+{{% resource_link "2b6bbc6b-7154-4d81-bbb5-27a2131c8ab7" "Stencils and boundary conditions (.jl)" %}}
 
 
 {{< tdclose >}}
@@ -641,14 +641,14 @@ notebooks
 {{< tdopen >}}
 
 
-[Ocean currents as two-dimensional advection diffusion](https://www.youtube.com/watch?v=waOzCGDNPzk)
+{{% resource_link "23294bbd-24e8-48c1-a957-75ad30a9c9b5" "Ocean currents as two-dimensional advection diffusion" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-﻿[Ocean heat transport (.jl)](https://github.com/mitmath/18S191/blob/Fall20/lecture_notebooks/week12/4_ocean_heat_transport.jl)
+﻿{{% resource_link "628ec2c8-0d09-4213-8447-871190f8e6d1" "Ocean heat transport (.jl)" %}}
 
 
 {{< tdclose >}}
@@ -665,20 +665,20 @@ notebooks
 {{< tdopen >}}
 
 
-[Building an ocean model from scratch](https://www.youtube.com/watch?v=GJFJXhgM0S4)
+{{% resource_link "2a52f4f4-66ba-4d54-a9ae-ba71f9929d3b" "Building an ocean model from scratch" %}}
 
-[Fluid dynamics with Oceananigans.jl](https://www.youtube.com/watch?v=kSbCYaB2KhQ)
+{{% resource_link "4afae98e-7fcf-48a5-9353-979681bcb496" "Fluid dynamics with Oceananigans.jl" %}}
 
-[Why you don't game on supercomputers](https://www.youtube.com/watch?v=WNpcJfw307Y)
+{{% resource_link "cd1a482d-7709-4df9-a838-97162feaf314" "Why you don't game on supercomputers" %}}
 
-[Generic programming](https://www.youtube.com/watch?v=_LyXN5rAhZ8)
+{{% resource_link "aeb4d974-b3f4-42e0-84a1-94d11d67f375" "Generic programming" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Generic programming (.jl)](https://github.com/mitmath/18S191/blob/Fall20/lecture_notebooks/week13/generic_programming.jl)
+{{% resource_link "43f87085-0d1d-4735-a98e-2fe321862515" "Generic programming (.jl)" %}}
 
 
 {{< tdclose >}}
@@ -695,7 +695,7 @@ notebooks
 {{< tdopen >}}
 
 
-[An overview of modern climate modeling](https://www.youtube.com/watch?v=mOJ0jABAhq4)
+{{% resource_link "0e69b94f-623a-4619-9204-a51cfcf5db83" "An overview of modern climate modeling" %}}
 
 
 {{< tdclose >}}
@@ -717,16 +717,16 @@ notebooks
 {{< tdopen >}}
 
 
-[What is a discrete Fourier transform?](https://www.youtube.com/watch?v=g8RkArhtCc4)
+{{% resource_link "75a016d6-738e-487e-a53b-15cc5d4e6739" "What is a discrete Fourier transform?" %}}
 
-[Closing remarks](https://www.youtube.com/watch?v=a-TMwV12Ca4)
+{{% resource_link "068ddda7-8776-493c-8732-9728e41c333e" "Closing remarks" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
- [Discrete Fourier transform (.jl)](https://github.com/mitmath/18S191/blob/Fall20/lecture_notebooks/week13/dft.jl)
+ {{% resource_link "79099814-7b12-4116-9ecc-53fed77cbf69" "Discrete Fourier transform (.jl)" %}}
 
 
 {{< tdclose >}}
@@ -735,6 +735,6 @@ notebooks
 
 {{< tableclose >}}
 
-Code content is licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Code content is licensed under the {{% resource_link "1f92383a-6d2c-4fa2-9277-4c6235092156" "MIT license" %}}.
 
-Text content is licensed under the [CC BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/).
+Text content is licensed under the {{% resource_link "3ec2a524-9787-471f-a0c5-7c8fc4c83c5c" "CC BY-SA license" %}}.
