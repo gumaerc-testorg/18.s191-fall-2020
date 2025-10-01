@@ -9,7 +9,7 @@ title: Assignments
 uid: 18fe33da-e302-e1a7-fd17-db2f79bc5561
 ---
 
-All of the Pluto notebook files for lecture sessions and homework are also available on the [original GitHub site developed for the course](https://github.com/mitmath/18S191/find/Fall20).
+All of the Pluto notebook files for lecture sessions and homework are also available on the {{% resource_link "6d5d69b2-40bd-497b-b8b9-e774bda1f0c1" "original GitHub site developed for the course" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -38,7 +38,7 @@ DATE DUE
 {{< tdopen >}}
 
 
-[Convolutions (.jl)](https://raw.githubusercontent.com/mitmath/18S191/Fall20/homework/homework1/hw1.jl)
+{{% resource_link "c3992c50-1ece-4a3a-90fb-f121a86dc61f" "Convolutions (.jl)" %}}
 
 
 {{< tdclose >}}
@@ -62,7 +62,7 @@ DATE DUE
 {{< tdopen >}}
 
 
-[Dynamic programming (.jl)](https://raw.githubusercontent.com/mitmath/18S191/Fall20/homework/homework2/hw2.jl)
+{{% resource_link "aac4b20e-23ef-4425-9e02-e7b2f7202530" "Dynamic programming (.jl)" %}}
 
 
 {{< tdclose >}}
@@ -86,7 +86,7 @@ DATE DUE
 {{< tdopen >}}
 
 
-[Structure and language (.jl)](https://raw.githubusercontent.com/mitmath/18S191/Fall20/homework/homework3/hw3.jl)
+{{% resource_link "abddea84-11d9-40c6-9156-73c2f14ceddf" "Structure and language (.jl)" %}}
 
 
 {{< tdclose >}}
@@ -110,7 +110,7 @@ DATE DUE
 {{< tdopen >}}
 
 
-[Epidemic modeling I (.jl)](https://raw.githubusercontent.com/mitmath/18S191/Fall20/homework/homework4/hw4.jl)
+{{% resource_link "0ce0d3be-e0c1-498a-974c-6b40942ca69a" "Epidemic modeling I (.jl)" %}}
 
 
 {{< tdclose >}}
@@ -134,7 +134,7 @@ DATE DUE
 {{< tdopen >}}
 
 
-[Epidemic modeling II (.jl)](https://raw.githubusercontent.com/mitmath/18S191/Fall20/homework/homework5/hw5.jl)
+{{% resource_link "d127658f-4e5d-476d-b5a3-df84d8cb4093" "Epidemic modeling II (.jl)" %}}
 
 
 {{< tdclose >}}
@@ -158,7 +158,7 @@ DATE DUE
 {{< tdopen >}}
 
 
-[Epidemic modeling III (.jl)](https://raw.githubusercontent.com/mitmath/18S191/Fall20/homework/homework6/hw6.jl)
+{{% resource_link "af1f4b66-31f5-463e-84a3-75a5573c7681" "Epidemic modeling III (.jl)" %}}
 
 
 {{< tdclose >}}
@@ -182,7 +182,7 @@ DATE DUE
 {{< tdopen >}}
 
 
-[Raytracing in 2D (.jl)](https://raw.githubusercontent.com/mitmath/18S191/Fall20/homework/homework7/hw7.jl)
+{{% resource_link "fa8dde00-0fd5-4583-aeba-8cdd71d8032a" "Raytracing in 2D (.jl)" %}}
 
 
 {{< tdclose >}}
@@ -206,7 +206,7 @@ DATE DUE
 {{< tdopen >}}
 
 
-[Raytracing in 3D (.jl)](https://raw.githubusercontent.com/mitmath/18S191/Fall20/homework/homework8/hw8.jl)
+{{% resource_link "a18a6f23-9dd8-4de8-9069-8022f6fd7e5e" "Raytracing in 3D (.jl)" %}}
 
 
 {{< tdclose >}}
@@ -230,7 +230,7 @@ DATE DUE
 {{< tdopen >}}
 
 
-[Climate modeling I (.jl)](https://raw.githubusercontent.com/mitmath/18S191/Fall20/homework/homework9/hw9.jl)
+{{% resource_link "37909614-1929-411c-a3df-6d272e59732a" "Climate modeling I (.jl)" %}}
 
 
 {{< tdclose >}}
@@ -254,7 +254,7 @@ DATE DUE
 {{< tdopen >}}
 
 
-[Climate modeling II (.jl)](https://raw.githubusercontent.com/mitmath/18S191/Fall20/homework/homework10/hw10.jl)
+{{% resource_link "c926afb5-ad29-48a9-9d5e-d27b82e5d444" "Climate modeling II (.jl)" %}}
 
 
 {{< tdclose >}}
@@ -270,4 +270,4 @@ DATE DUE
 
 {{< tableclose >}}
 
-Code content is licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Code content is licensed under the {{% resource_link "1f92383a-6d2c-4fa2-9277-4c6235092156" "MIT license" %}}.
