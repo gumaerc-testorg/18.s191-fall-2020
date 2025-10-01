@@ -17,7 +17,7 @@ There are no prerequisites.
 
 ## Course Description
 
-This is an introductory course on computational thinking. We use the [Julia](https://julialang.org/) programming language to approach real-world problems in varied areas applying data analysis and computational and mathematical modeling. In this class you will learn computer science, software, algorithms, applications, and mathematics as an integrated whole.
+This is an introductory course on computational thinking. We use the {{% resource_link "737a0939-c6ed-4fe1-a6a0-b6f893f715bd" "Julia" %}} programming language to approach real-world problems in varied areas applying data analysis and computational and mathematical modeling. In this class you will learn computer science, software, algorithms, applications, and mathematics as an integrated whole.
 
 Topics include:
 
@@ -30,7 +30,7 @@ A previous [half-semester version of this course](/courses/18-s190-introduction-
 
 ## Teaching Team
 
-Meet the instructors for the course in [the video](https://www.youtube.com/watch?v=vxjRWtWoD_w).
+Meet the instructors for the course in {{% resource_link "ad439a2c-6a60-4f3a-af03-792b1062e8f3" "the video" %}}.
 
 ## Format
 
@@ -50,4 +50,4 @@ The student's lowest score of the 10 problem sets will be dropped. The remaining
 
 ## Non-registered Students
 
-Students from outside MIT are welcome to use the course materials and work their way through the lecture videos and homework assignments, though they do not have access to the MIT-only discussion forum on Piazza and may not submit homework for grading. Non-MIT students are encouraged to join the open discussion forum on [Discord](https://discord.com/invite/Z5qnVf8) and find a cross-grading partner there.
+Students from outside MIT are welcome to use the course materials and work their way through the lecture videos and homework assignments, though they do not have access to the MIT-only discussion forum on Piazza and may not submit homework for grading. Non-MIT students are encouraged to join the open discussion forum on {{% resource_link "11f11f0b-671c-428c-b825-80a4eaca46c1" "Discord" %}} and find a cross-grading partner there.
